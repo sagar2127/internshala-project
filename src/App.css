@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+.fonts {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    letter-spacing: '2px';
+    color: #9DCC5f;
+}
+
+.custom-bg {
+    height: 20vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 100%;
+    align-items: center;
+}
+
+.custom-search-bar {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.custom-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.custom-card-img {
+    flex: 1;
+    object-fit: cover;
+}
